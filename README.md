@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LuizAstorga
-- 👀 I’m interested in using my data analytical skills to make an impact 
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on problems that need Data for solutions
-- 📫 How to reach me laa180001@utdallas.edu
+- 👀 I’m exploring web3 & web5 technologies
+- 🌱 I’m currently learning the fundamentals of blockchain programming
+- 🚀 I’m looking to collaborate on problems that will challenge me as a developer
+- 📫 How to reach me astorgaluiz98@gmail.com or on [LinkedIn](https://www.linkedin.com/in/luiz-astorga-4720791a5/)
 
 <!---
 LuizAstorga/LuizAstorga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
